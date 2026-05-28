@@ -3,6 +3,7 @@
 | Skill | 说明 |
 |-------|------|
 | honor-club-scraper | 抓取荣耀俱乐部 WIN系列帖子数据 |
+| xiaomi-k90-scraper | 抓取小米社区 K90系列游戏相关帖子 |
 
 ---
 
